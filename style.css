@@ -1,0 +1,67 @@
+.boxMilkyWay {
+  display: flex;
+  align-items: center;
+  background-color: black;
+  box-shadow: 10px 10px 50px #000000;
+}
+
+.boxPlanetaryNebula {
+  display: flex;
+  align-items: center;
+  background-color: black;
+  margin-top: 0px;
+  box-shadow: 10px 10px 50px #000000
+}
+
+.boxCenterOfMilkyWay {
+  display: flex;
+  align-items: center;
+  background-color: black;
+  box-shadow: 10px 10px 50px #000000
+}
+
+p {
+  color: white;
+  font: 20px arial;
+  margin-left: 15px;
+  margin-right: 15px;
+  text-align:justify;
+}
+
+h1 {
+  background-color: black;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  color: white;
+  font: 75px arial;
+  padding-top: 50px;
+  font-weight: bold;
+  box-shadow: 10px 10px 50px #000000;
+  text-align: center;
+}
+
+
+#starDeath{
+  text-align:right;
+}
+
+
+h3 {
+  margin-bottom: 0px;
+  margin-top: 50px;
+  color: white;
+  font: 50px arial;
+  font-weight: bold;
+  text-shadow: 10px 10px 50px #000000
+
+}
+
+.mainContent {
+  max-width: 850px;
+  margin: auto;
+}
+
+body {
+  background-image: url("images/spaceTexture.jpg");
+  background-position: center;
+}
